@@ -31,3 +31,4 @@ Calcular e exibir corretamente o total de acertos e a porcentagem.
 Utilizar boas práticas de codificação: indentação, nomes claros e comentários.
 
 
+nova alteraçao
